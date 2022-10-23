@@ -23,8 +23,8 @@ Project Consist of the following main Tasks/Flows
 * Logout - the bot logs out of website and closes the Browser/Tab
 
 # References
-https://www.youtube.com/watch?v=wk2PBLU3mg0 - login to website
-https://www.youtube.com/watch?v=5etuXQR42f8 - open/write Excel file
+https://www.youtube.com/watch?v=wk2PBLU3mg0 - login to website <br />
+https://www.youtube.com/watch?v=5etuXQR42f8 - open/write Excel file <br />
 https://www.youtube.com/watch?v=boIOgO2-OBk - For Each Loops
 https://docs.uipath.com/activities/docs/read-write-and-append-data-in-excel
 https://docs.uipath.com/activities/docs/n-application-card
