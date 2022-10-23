@@ -25,23 +25,23 @@ Project Consist of the following main Tasks/Flows
 # References
 https://www.youtube.com/watch?v=wk2PBLU3mg0 - login to website <br />
 https://www.youtube.com/watch?v=5etuXQR42f8 - open/write Excel file <br />
-https://www.youtube.com/watch?v=boIOgO2-OBk - For Each Loops
-https://docs.uipath.com/activities/docs/read-write-and-append-data-in-excel
-https://docs.uipath.com/activities/docs/n-application-card
-https://forum.uipath.com/t/using-an-excel-application-scope-through-invoked-workflows/154556/3
-https://www.uipath.com/learning/video-tutorials/project-organization
-https://forum.uipath.com/t/how-to-escape-from-inner-loop-to-outer/138720
-https://www.youtube.com/watch?v=SXC9WYFQR2w - Breakpoints and debuging
-https://docs.uipath.com/activities/docs/read-from-excel-files
-https://forum.uipath.com/t/passing-variable-to-another-workflow/182411/7
-https://forum.uipath.com/t/how-to-exit-for-each-loop/196664/6
-https://forum.uipath.com/t/write-cell-for-every-row-while-looping-for-each-row/107964
-https://forum.uipath.com/t/for-each-row-in-column-a-insert-some-value/385756
-https://forum.uipath.com/t/read-and-write-to-excel-for-each-row/283906/4
-https://forum.uipath.com/t/write-cell-for-every-row-while-looping-for-each-row/107964/12
-https://docs.uipath.com/activities/docs/excel-for-each-row
-https://docs.uipath.com/activities/docs/n-for-each-ui-element
-https://forum.uipath.com/t/recognize-each-ui-element-in-chrome-and-click-on-it-one-after-the-other/420992/7
-https://forum.uipath.com/t/signing-out-from-the-chrome/104520
-https://forum.uipath.com/t/how-to-close-the-browser-in-reframework-using-modern-activities/402251
-https://forum.uipath.com/t/visualbasicvalue-boolean-object-reference-not-setto-an-instance-of-an-object/293840/2
+https://www.youtube.com/watch?v=boIOgO2-OBk - For Each Loops <br />
+https://docs.uipath.com/activities/docs/read-write-and-append-data-in-excel <br />
+https://docs.uipath.com/activities/docs/n-application-card <br />
+https://forum.uipath.com/t/using-an-excel-application-scope-through-invoked-workflows/154556/3 <br />
+https://www.uipath.com/learning/video-tutorials/project-organization <br />
+https://forum.uipath.com/t/how-to-escape-from-inner-loop-to-outer/138720 <br />
+https://www.youtube.com/watch?v=SXC9WYFQR2w - Breakpoints and debuging <br />
+https://docs.uipath.com/activities/docs/read-from-excel-files <br />
+https://forum.uipath.com/t/passing-variable-to-another-workflow/182411/7 <br />
+https://forum.uipath.com/t/how-to-exit-for-each-loop/196664/6 <br />
+https://forum.uipath.com/t/write-cell-for-every-row-while-looping-for-each-row/107964 <br />
+https://forum.uipath.com/t/for-each-row-in-column-a-insert-some-value/385756 <br />
+https://forum.uipath.com/t/read-and-write-to-excel-for-each-row/283906/4 <br />
+https://forum.uipath.com/t/write-cell-for-every-row-while-looping-for-each-row/107964/12 <br />
+https://docs.uipath.com/activities/docs/excel-for-each-row <br />
+https://docs.uipath.com/activities/docs/n-for-each-ui-element <br />
+https://forum.uipath.com/t/recognize-each-ui-element-in-chrome-and-click-on-it-one-after-the-other/420992/7 <br />
+https://forum.uipath.com/t/signing-out-from-the-chrome/104520 <br />
+https://forum.uipath.com/t/how-to-close-the-browser-in-reframework-using-modern-activities/402251 <br />
+https://forum.uipath.com/t/visualbasicvalue-boolean-object-reference-not-setto-an-instance-of-an-object/293840/2 <br />
