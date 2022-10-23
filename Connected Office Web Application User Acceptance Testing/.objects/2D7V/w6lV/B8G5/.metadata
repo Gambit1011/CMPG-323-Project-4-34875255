@@ -1,0 +1,14 @@
+﻿{
+  "Id": "B8G5ARPk-UyHkMKvqREx4Q",
+  "Reference": "eylpejoqykuohONlyioJwg/B8G5ARPk-UyHkMKvqREx4Q",
+  "ParentRef": "eylpejoqykuohONlyioJwg/w6lVGQFoKU6I6genTylEJg",
+  "Name": "Chrome Home Page - Connected Office Device Manage",
+  "Type": "Screen",
+  "TaxonomyType": "Screen",
+  "Created": "2022-10-22T22:01:03.1896367Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-10-22T22:01:03.1896367Z"
+}
