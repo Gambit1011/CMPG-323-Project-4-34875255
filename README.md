@@ -6,7 +6,7 @@ Project Consist of the following main Tasks/Flows
 ![image](https://user-images.githubusercontent.com/89706817/197419826-a1ae8fc0-55e8-436b-b316-235932cb74c4.png)
 
 ** Access Website
-** Login - where if the login fails the process will then register an account and then login, if the website is already logged in then the bot will log out and log out and login again to make sure it is the correct account.
+** Login - where if the login fails the process will then register an account and then login, if the website is already logged in then the bot will log out and login again to make sure it is the correct account.
 ** TestZone - this is where the bot will access the excel file and get the zone test data. whereafter it will enter the data, edit the data, and delete the data. if the processes are successful, it will report it in the result tab in the excel file.
 
 ![image](https://user-images.githubusercontent.com/89706817/197419841-9c03e111-f596-41a6-804d-cd4115be6f0e.png)
