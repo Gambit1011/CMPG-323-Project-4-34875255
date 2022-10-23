@@ -21,6 +21,8 @@ Project Consist of the following main Tasks/Flows
 ![image](https://user-images.githubusercontent.com/89706817/197419970-8bb55456-1db1-437d-b6d3-a4dbae5dad3e.png)
 
 * Logout - the bot logs out of website and closes the Browser/Tab
+## reporting
+In the result tab you will find a true false for each zone, category and device indicating the success of the read, add data, edit data, and delete data.
 
 # References
 https://www.youtube.com/watch?v=wk2PBLU3mg0 - login to website <br />
