@@ -5,22 +5,22 @@ Project Consist of the following main Tasks/Flows
 
 ![image](https://user-images.githubusercontent.com/89706817/197419826-a1ae8fc0-55e8-436b-b316-235932cb74c4.png)
 
-** Access Website
+* Access Website
 
-** Login - where if the login fails the process will then register an account and then login, if the website is already logged in then the bot will log out and login again to make sure it is the correct account.
+* Login - where if the login fails the process will then register an account and then login, if the website is already logged in then the bot will log out and login again to make sure it is the correct account.
 
-** TestZone - this is where the bot will access the excel file and get the zone test data. whereafter it will enter the data, edit the data, and delete the data. if the processes are successful, it will report it in the result tab in the excel file.
+* TestZone - this is where the bot will access the excel file and get the zone test data. whereafter it will enter the data, edit the data, and delete the data. if the processes are successful, it will report it in the result tab in the excel file.
 
 ![image](https://user-images.githubusercontent.com/89706817/197419841-9c03e111-f596-41a6-804d-cd4115be6f0e.png)
 
-** Test Category -This is the same process as TestZone only with category information - create, edit and delete
-** EnterData - this process enters all the test data into the website. So, in turn TestDevice can be executed.
-** TestDevice - Bot open excel file and get device data then adds, edit and delete devices one by one, testing all endpoint.
-** DeleteData - Bot removes all data from categories and zones leaving the database clean.
+* Test Category -This is the same process as TestZone only with category information - create, edit and delete
+* EnterData - this process enters all the test data into the website. So, in turn TestDevice can be executed.
+* TestDevice - Bot open excel file and get device data then adds, edit and delete devices one by one, testing all endpoint.
+* DeleteData - Bot removes all data from categories and zones leaving the database clean.
 
 ![image](https://user-images.githubusercontent.com/89706817/197419970-8bb55456-1db1-437d-b6d3-a4dbae5dad3e.png)
 
-** Logout - the bot logs out of website and closes the Browser/Tab
+* Logout - the bot logs out of website and closes the Browser/Tab
 
 # References
 https://www.youtube.com/watch?v=wk2PBLU3mg0 - login to website
